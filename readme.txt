@@ -1,3 +1,7 @@
+This project is part of the introduction on Unity for the Interaction Systems' subject in my Audiovisual Systems Engineering bachelor in UPF. The professor has encourage us to complete and improve the "Introduction to Unity Scripting" Tutorial from Unity.
+
+---
+
 Once I have finished the first part of "Introduction to Unity Scripting" tutorial, I have done its second part. That includes:
 - Creation and implementation of the sheep spawns (handle lists and add/remove of game objects).
 - Add visual enhancements and score track, to improve experience.
